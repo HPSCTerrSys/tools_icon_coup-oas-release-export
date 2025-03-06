@@ -1,4 +1,4 @@
-#!bin/bash
+#!/usr/bin/env bash
 
 # set version by hand
 #iconversion="icon-2024.07" #take from icon tag
